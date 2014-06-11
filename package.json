@@ -3,7 +3,7 @@
   "description": "gulp-devserver",
   "version": "0.0.1",
   "private": true,
-  "devDependencies": {
+  "dependencies": {
     "express": "*",
     "gulp": "*",
     "gulp-debug": "^0.3.0",
